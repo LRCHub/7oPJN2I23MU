@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Alone (Remix)",
+  "base_artist": "ice king、JAKEN",
+  "createdAt": "2025-12-01T14:18:30.151769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wish Coin (Go It Alone) [Remix by Diplo]",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/01_Wish_Coin_(Go_It_Alone)_[Remix_by_Diplo]_Beck.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We're Not Alone - Remix",
+      "artist": "Peeping Tom",
+      "has_synced": true,
+      "path": "select/02_We're_Not_Alone_-_Remix_Peeping_Tom.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We're Not Alone - Remix (feat. Dub Trio)",
+      "artist": "Peeping Tom",
+      "has_synced": true,
+      "path": "select/03_We're_Not_Alone_-_Remix_(feat._Dub_Trio)_Peeping_Tom.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alone (Remix)",
+      "artist": "Jodeci",
+      "has_synced": true,
+      "path": "select/04_Alone_(Remix)_Jodeci.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We All Sleep Alone (remix)",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/05_We_All_Sleep_Alone_(remix)_Cher.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rather Be Alone (Remix) [Mixed]",
+      "artist": "Robin Schulz",
+      "has_synced": false,
+      "path": "select/06_Rather_Be_Alone_(Remix)_[Mixed]_Robin_Schulz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tired Of Being Alone - Remix",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/07_Tired_Of_Being_Alone_-_Remix_Texas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tired Of Being Alone (Remix)",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/08_Tired_Of_Being_Alone_(Remix)_Texas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "U Are Not Alone (remix)",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/09_U_Are_Not_Alone_(remix)_Modern_Talking.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Leave Me Alone (remix)",
+      "artist": "Jerry Cantrell",
+      "has_synced": false,
+      "path": "select/10_Leave_Me_Alone_(remix)_Jerry_Cantrell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We're Not Alone (Remix)",
+      "artist": "Peeping Tom/Dub Trio",
+      "has_synced": true,
+      "path": "select/11_We're_Not_Alone_(Remix)_Peeping_Tom_Dub_Trio.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We're Not Alone (remix)",
+      "artist": "Peeping Tom feat. Dub Trio",
+      "has_synced": true,
+      "path": "select/12_We're_Not_Alone_(remix)_Peeping_Tom_feat._Dub_Trio.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We’re Not Alone (Remix) featuring Dub Trio",
+      "artist": "Peeping Tom",
+      "has_synced": true,
+      "path": "select/13_We’re_Not_Alone_(Remix)_featuring_Dub_Trio_Peeping_Tom.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fuck Alone (Remix) [feat. Kaash Paige]",
+      "artist": "Imani Williams",
+      "has_synced": true,
+      "path": "select/14_Fuck_Alone_(Remix)_[feat._Kaash_Paige]_Imani_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alone (Remix)",
+      "artist": "FOLA",
+      "has_synced": false,
+      "path": "select/15_Alone_(Remix)_FOLA.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alone (Remix)",
+      "artist": "FOLA",
+      "has_synced": false,
+      "path": "select/16_Alone_(Remix)_FOLA.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Alone (Remix)",
+      "artist": "FOLA",
+      "has_synced": true,
+      "path": "select/17_Alone_(Remix)_FOLA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Not Okay (Alone Remix)",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/18_Not_Okay_(Alone_Remix)_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Alone (Remix)",
+      "artist": "FOLA",
+      "has_synced": false,
+      "path": "select/19_Alone_(Remix)_FOLA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alone (Remix)",
+      "artist": "FUNNYSTREET feat. VAPESHARK , Dai , Niji",
+      "has_synced": false,
+      "path": "select/pl_01_Alone_(Remix)_FUNNYSTREET_feat._VAPESHARK_,_Dai_,_Niji.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Alone (Remix)",
+      "artist": "FUNNYSTREET feat. VAPESHARK , Dai , Niji",
+      "has_synced": false,
+      "path": "select/pl_02_Alone_(Remix)_FUNNYSTREET_feat._VAPESHARK_,_Dai_,_Niji.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Alone (Remix)",
+      "artist": "FUNNYSTREET feat. VAPESHARK , Dai , Niji",
+      "has_synced": false,
+      "path": "select/pl_03_Alone_(Remix)_FUNNYSTREET_feat._VAPESHARK_,_Dai_,_Niji.txt"
+    }
+  ]
+}
