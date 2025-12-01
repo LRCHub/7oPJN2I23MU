@@ -1,0 +1,48 @@
+# ice king、JAKEN – Alone (Remix)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+夢まだ醒めない
+明日も変わらない?
+生き急ぐ死ねない
+まだ振り返れない
+もういいよ もういいよ
+もういいよ もういいよ
+もういいよ もういいよ
+でもyou don't want to be alone
+I don't want to be alone
+もういいよ もういいよ
+もういいよ もういいよ
+もういいよ もういいよ
+でもyou don't want to be alone
+I don't want to be alone
+映像が映るあのlonely time
+そこになんでもある
+嘘はないみたい
+でも途方もない
+まだ終われないから
+死ぬ間際まで行くmy way
+もういいよ もういいよ
+もういいよ もういいよ
+もういいよ もういいよ
+でもyou don't want to be alone
+I don't want to be alone
+もういいよと嘆く1人
+またベッド
+大の字になってる
+showy oh
+星照らす夜
+同じ夢を見る
+ありがとう
+freeになって
+いま好きにやってる
+捉え方変わっていく確かに
+理想はPeaceな世界で
+歴史は残酷な世界線
+もういいよ もういいよ
+もういいよ もういいよ
+もういいよ もういいよ
+でもyou don't want to be alone
+I don't want to be alone
+```
